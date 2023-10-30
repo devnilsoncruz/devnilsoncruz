@@ -1,6 +1,6 @@
 ## Welcome/Olá seja bem vindo!✌✌
 
-Estudo e Trabalho com as seguintes Tecnologias/mystacks👨‍🎓
+Estudo e Trabalho com as seguintes Tecnologias/Myskills👨‍🎓
 <div style="display: inline_block"><br>
   
   <img align="center" alt="nilson-Jv" height="30" width="40" src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor">
