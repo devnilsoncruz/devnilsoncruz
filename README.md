@@ -1,9 +1,6 @@
-### Hi there 👋
+## Welcome/Olá seja bem vindo!✌✌
 
-## Olá seja bem vindo!✌✌
-
-Atualmente Estudo e Trabalho com as seguintes stacks..
-
+Estudo e Trabalho com as seguintes Tecnologias/mystacks👨‍🎓
 <div style="display: inline_block"><br>
   
   <img align="center" alt="nilson-Jv" height="30" width="40" src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor">
@@ -20,3 +17,8 @@ Atualmente Estudo e Trabalho com as seguintes stacks..
   <a href="https://www.linkedin.com/in/nilson-cruz-4a0396291" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devnilsoncruz&show_icons=true&theme=radical)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
