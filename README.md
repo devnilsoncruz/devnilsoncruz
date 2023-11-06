@@ -2,9 +2,8 @@
 
 Estudo e Trabalho com as seguintes Tecnologias/Myskills👨‍🎓
 <div style="display: inline_block"><br>
-  
-  <img align="center" alt="nilson-Jv" height="30" width="40" src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor">
-  <img align="center" alt="nilson-kt" height="30" width="40" src="https://github.com/devnilsoncruz/nilsoncruz/assets/146475333/ef7d2170-f3d4-48cd-b53b-9e09d3974af6"> 
+
+  <img align="center" alt="nilson-Jv" height="30" width="40" src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor"> 
   <img align="center" alt="nilson-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="nilson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
