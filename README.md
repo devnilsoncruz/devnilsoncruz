@@ -1,7 +1,11 @@
 ## Welcome/Olá seja bem vindo!✌✌
 
-Estudo e Trabalho com as seguintes Tecnologias/Myskills👨‍🎓
-<div style="display: inline_block"><br>
+Olá vistante/futuro colega , Aqui vocẽ encontra meus estudos e trabalhos  nas tecnologias 
+abaixo fique avontade para me contatar !
+
+#### Tecnologias que ultlizo no Desenvolvimento
+  
+  <div style="display: inline_block"><br>
 
   ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -19,15 +23,15 @@ Estudo e Trabalho com as seguintes Tecnologias/Myskills👨‍🎓
   
 </div>
   
-  ##
+  ### Contato
  
-<div> 
+
   <a href = "mailto:nilsonrdc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/nilson-cruz-4a0396291" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devnilsoncruz&show_icons=true&theme=radical)
 
+### Github Status
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
