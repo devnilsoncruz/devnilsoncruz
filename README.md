@@ -1,9 +1,7 @@
-## Welcome/Olá seja bem vindo!✌✌
+## Olá  pessoal  Sejam todos Bem Vindos
 
-Olá vistante/futuro colega , Aqui vocẽ encontra meus estudos e trabalhos  nas tecnologias 
-abaixo fique avontade para me contatar !
-
-#### Tecnologias que ultlizo no Desenvolvimento
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&duration=6000&pause=800&color=27CA00&random=false&width=500&lines=To+eat...+Code+...+Sleep...)](https://git.io/typing-svg)
+#### 
   
   <div style="display: inline_block"><br>
 
