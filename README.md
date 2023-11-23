@@ -4,7 +4,9 @@
 #### 
   
   <div style="display: inline_block"><br>
-
+  
+  
+  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
   ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
   ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
