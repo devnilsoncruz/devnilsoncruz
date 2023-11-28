@@ -1,7 +1,6 @@
 ## Olá  pessoal  Sejam todos Bem Vindos
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&duration=6000&pause=800&color=27CA00&random=false&width=500&lines=To+eat...+Code+...+Sleep...)](https://git.io/typing-svg)
-#### 
+
   
   <div style="display: inline_block"><br>
   
